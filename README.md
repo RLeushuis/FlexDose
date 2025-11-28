@@ -28,11 +28,11 @@
 
   ## Support Development
 
-  If you find FlexDose helpful and want to support ongoing development:
+  If you find FlexDose helpful and want to support the developer:
 
   ☕ [Buy me a coffee on Ko-fi](https://ko-fi.com/rikleushuis)
 
-  FlexDose will always remain ad-free and fully functional for everyone.
+  Donations are completely optional and do not unlock any features.
 
   ## License
 
