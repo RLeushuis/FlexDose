@@ -36,4 +36,4 @@
 
   ## License
 
-  © 2025 LeusWare. All rights reserved.
+  © 2025 Rik Leushuis. All rights reserved.
