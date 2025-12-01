@@ -16,7 +16,7 @@
 
   ## Download
 
-  [Download on the App Store]([https://apps.apple.com/app/flexdose/id6755522351])
+  [Download on the App Store](https://apps.apple.com/app/flexdose/id6755522351)
 
   ## Privacy & Terms
 
